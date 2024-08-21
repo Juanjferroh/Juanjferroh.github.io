@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: about
 title: about
 permalink: /
+title: <strong>Juan José Ferro Hoyos </strong> Castañeda Rodríguez
+order: 1
 subtitle: Third year Phd student in economics at Universidad de los Andes. 
 
 profile:
@@ -14,9 +16,9 @@ profile:
     <p> Bogotá, Colombia </p>
 
 news: false # includes a list of news items
-selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 
 I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogotá, Colombia) under the guidance of [José Guerra](https://jguerraforero.wixsite.com/joseaguerra) and [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/). 
 {: .text-justify}
