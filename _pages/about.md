@@ -1,25 +1,33 @@
 ---
-layout: about
+layout: default
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Third year Phd student in economics at Universidad de los Andes. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Office W-722 </p>
+    <p> Universidad de los Andes</p>
+    <p> Bogotá, Colombia </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogotá, Colombia) under the guidance of [José Guerra](https://jguerraforero.wixsite.com/joseaguerra) and [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/). 
+{: .text-justify}
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work centers on applied microeconomics. In particular, I study the effect of social norms on risky behaviors. 
+{: .text-justify}
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The first chapter of my thesis studies the effect of norm legitimacy on the deterrence of legal sanctions. I study this in the context of traffic infractions using the Speed Camera program implmeented in Bogotá on 2020 as a case study. 
+The second chapter studies the effect of institutional legitimacy on the efficacy of legal sanctions. I measure the effect of police scandals on the deterrent capacity of traffic tickets, using Google Trends data and traffic tickets and accidents in Bogotá.
+My third chapter will be an experiment on the effect that fiction reading has on social norms that foster prosociality.
+{: .text-justify}
+
+I also have a career in fiction writing. My novel _Economía Experimental_ won the 2022 National Prize by the Ministry of Culture. It came about in September 2023 in a beautiful edition by [angosta editores](https://www.angosta.co/producto/economia-experimental/) 
+{: .text-justify}
