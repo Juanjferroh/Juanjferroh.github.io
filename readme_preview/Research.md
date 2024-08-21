@@ -1,5 +1,6 @@
 ---
 layout: secondary_pages
+nav: true
 ---
 
 
