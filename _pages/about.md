@@ -9,7 +9,8 @@ subtitle: Third year Phd student in economics at Universidad de los Andes.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true 
+  
   more_info: >
     <p> Office W-722 </p>
     <p> Universidad de los Andes</p>
