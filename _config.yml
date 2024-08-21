@@ -48,7 +48,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: false
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: false
 bib_search: false
@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-x_username: @jjferroh # your X handle
+x_username: jjferroh # your X handle
 
 contact_note: >
   You can contact me at jj.ferro26 [at] uniandes.edu.co.
