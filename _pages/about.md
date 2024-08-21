@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-title: <strong>Juan José Ferro Hoyos </strong> Castañeda Rodríguez
+title: <strong>Juan José Ferro Hoyos 
 order: 1
 subtitle: Third year Phd student in economics at Universidad de los Andes. 
 
