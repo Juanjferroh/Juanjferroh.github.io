@@ -1,5 +1,7 @@
 ---
-layout: secondary_pages
+layout: page
+permalink: /Research/
+title: Research
 nav: true
 ---
 
