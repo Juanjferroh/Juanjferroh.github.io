@@ -2,11 +2,27 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- **Advanced microeconomics (masters and Phd course)**<br>
+  Teaching assistant to Paula Jaramillo and José Guerra<br>
+  Department of Economics, Universidad de los Andes<br>
+	 Fall 2024
+	 
+- **Game theory (undergraduate course)**<br>
+  Course instructor<br>
+	 Department of Economics, Universidad de los Andes<br>
+	 Summer 2024
 
-Organize your courses by years, topics, or universities, however you like!
+- **Advanced microeconomics (undergraduate course)**<br>
+  Teaching assistant to José Guerra and Andrés Moya<br>
+  Department of Economics, Universidad de los Andes<br>
+	 Spring 2024
+
+
+- **Advanced econometrics (Phd course)**<br>
+  Teaching assistant to Oscar Becerra<br>
+  Department of Economics, Universidad de los Andes<br>
+	 Fall 2023
